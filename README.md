@@ -7,14 +7,12 @@
 *Приложение «Movie Library» — графическое приложение для управления личной коллекцией фильмов. Позволяет добавлять фильмы, просматривать их в виде таблицы, фильтровать по жанру и году выпуска, а также сохранять данные в JSON‑файл для последующего использования.*
 ---
 ## Требования для запуска
-
 Для работы приложения требуется:
-
 - Python 3.8 или выше;
 - стандартные библиотеки Python: `tkinter`, `json`, `os` (не требуют отдельной установки).
 ---
 ## Как запустить
 ```bash
-git clone https://github.com/твой-логин/weather-diary.git
-cd weather-diary
+git clone [https://github.com/safuanov/Movie-Library.git](https://github.com/safuanov/Movie-Library.git)
+cd Movie-Library
 python main.py
